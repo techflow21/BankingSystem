@@ -5,4 +5,4 @@ This Banking System ASP.NET Web API was implemented using several technologies s
 - Postgre SQL for Database.
 _ Authentication with JSON Web Token (JWT).
 - Authorization ( Permission-based Authorization)
-- Docker first containerization of app.
+- Docker for containerization of app.

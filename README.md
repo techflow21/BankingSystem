@@ -12,7 +12,6 @@ This Banking System ASP.NET Web API was implemented using several technologies a
 - Cloud Storage (e.g Cloudinary) for Image Upload Service.
 - EmailService using MailKit and MimeKit.
 - SMS Service Implementation.
-
   ## Features Implementations: 
 - Registration with Account Number Generation, Login, Forgot Password and Logout.
 - CRUD Operations, Search Users and Deactivate of the application/registered Users.

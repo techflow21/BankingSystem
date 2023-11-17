@@ -13,7 +13,8 @@ This Banking System ASP.NET Web API was implemented using several technologies a
 - EmailService using MailKit and MimeKit.
 - SMS Service Implementation.
 - 
-  ## Features Implementations: 
+  ## Features Implementations:
+  
 - Registration with Account Number Generation, Login, Forgot Password and Logout.
 - CRUD Operations, Search Users and Deactivate of the application/registered Users.
 - Role Management Operations.

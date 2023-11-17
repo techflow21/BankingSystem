@@ -1,5 +1,4 @@
 # Banking System
-
 This Banking System ASP.NET Web API was implemented using several technologies as follows:
 ## Technologies Used:
 - Serilog for structured logging to Database using Serilog.Sinks.MSSQL.

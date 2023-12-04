@@ -22,7 +22,7 @@ This Banking System ASP.NET Web API was implemented using several technologies a
   - Check Account Balance.
   - Transfer from Ones' Account balance  to Another Customer's Account.
   - Withdraw from Self Account.
-- Reports/ Analytics such as:
+  - Reports/ Analytics such as:
   - All Transaction reports in order of dates.
   - Total Money Deposited.
   - Total Money Withdrawn.

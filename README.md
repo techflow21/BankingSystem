@@ -13,7 +13,6 @@ This Banking System ASP.NET Web API was implemented using several technologies a
 - SMS Service Implementation.
   
   ## Features Implementations:
-  
 - Registration with Account Number Generation, Login, Forgot Password and Logout.
 - CRUD Operations, Search Users and Deactivate of the application/registered Users.
 - Role Management Operations.
